@@ -1,0 +1,11 @@
+C:\Users\themr\documents\visual studio 2017\Projects\lab3_TP_2.4\lab3_TP_2.4\bin\Debug\lab3_TP_2.4.exe.config
+C:\Users\themr\documents\visual studio 2017\Projects\lab3_TP_2.4\lab3_TP_2.4\bin\Debug\lab3_TP_2.4.exe
+C:\Users\themr\documents\visual studio 2017\Projects\lab3_TP_2.4\lab3_TP_2.4\bin\Debug\lab3_TP_2.4.pdb
+C:\Users\themr\documents\visual studio 2017\Projects\lab3_TP_2.4\lab3_TP_2.4\obj\Debug\lab3_TP_2.4.csprojResolveAssemblyReference.cache
+C:\Users\themr\documents\visual studio 2017\Projects\lab3_TP_2.4\lab3_TP_2.4\obj\Debug\lab3_TP_2._4.Form1.resources
+C:\Users\themr\documents\visual studio 2017\Projects\lab3_TP_2.4\lab3_TP_2.4\obj\Debug\lab3_TP_2._4.Properties.Resources.resources
+C:\Users\themr\documents\visual studio 2017\Projects\lab3_TP_2.4\lab3_TP_2.4\obj\Debug\lab3_TP_2.4.csproj.GenerateResource.Cache
+C:\Users\themr\documents\visual studio 2017\Projects\lab3_TP_2.4\lab3_TP_2.4\obj\Debug\lab3_TP_2.4.exe
+C:\Users\themr\documents\visual studio 2017\Projects\lab3_TP_2.4\lab3_TP_2.4\obj\Debug\lab3_TP_2.4.pdb
+C:\Users\themr\documents\visual studio 2017\Projects\lab3_TP_2.4\lab3_TP_2.4\bin\Debug\ClassLibrary1.dll
+C:\Users\themr\documents\visual studio 2017\Projects\lab3_TP_2.4\lab3_TP_2.4\bin\Debug\ClassLibrary1.pdb
